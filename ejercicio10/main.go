@@ -13,9 +13,7 @@ func main() {
 	motor := model.Motor{
 		NumeroCilindros: 3,
 		Cilindrada:      1100,
-	
 	}
-	bicicleta := bici.
 
 	coche := model.Coche{
 		MotorCoche:   motor,
