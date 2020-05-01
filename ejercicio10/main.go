@@ -2,6 +2,8 @@ package main
 
 import (
 	"fmt"
+
+	"github.com/goCurso/cursoGolangGO/ejercicio10/model"
 )
 
 // ESTRUCTURAS
@@ -12,6 +14,7 @@ func main() {
 		NumeroCilindros: 3,
 		Cilindrada:      1100,
 	}
+
 	coche := model.Coche{
 		MotorCoche:   motor,
 		NumeroRuedas: 4,

@@ -15,3 +15,8 @@ type Coche struct {
 	NumeroRuedas int
 	NumeroSerie  string
 }
+type Coche2 struct {
+	MotorCoche   Motor
+	NumeroRuedas int
+	NumeroSerie  string
+}
