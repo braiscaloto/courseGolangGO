@@ -4,7 +4,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/goCurso/cursoGolangGO/ejercicio10/model"
+	"github.com/goCurso/cursoGolangGO/ejercicio10_estructurasPunteros/model"
 )
 
 func main() {
